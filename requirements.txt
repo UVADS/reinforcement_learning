@@ -1,0 +1,8 @@
+tensorflow
+gym
+
+
+cart_pole* files require gym
+
+Can easily run these here:
+https://colab.research.google.com/
