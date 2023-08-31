@@ -1,17 +1,16 @@
 
 ## INTRODUCTION TO THE MODULE
 
-In this first module, you will learn the definition of the reinforcement learning problem. 
-You will encounter the important elements of the setup, such as value functions, state space, and action space.
-
+This module begins with the k-armed bandit problem, which uses a single state. Even in this simple setup, many fundamental ideas of RL are covered. Next, we study Markov Decision Processes, which provide an important mathematical framework for RL problems. We learn the Bellman equation which helps identify optimality.
 
 ## LEARNING OUTCOMES
 
 At the conclusion of this module, you should be able to:
 
-- Explain how reinforcement learning is different from other machine learning problems
-- Explain the key elements of RL
-- Distinguish between reward and value
-- Distinguish between exploration and exploitation, explaining the tradeoff in value discovery
-- Explain the difference between behavior policy and target policy
-- Define the elements such as state space and action space for a simple game like Tic-Tac-Toe
+- Understand the k-armed bandit problem
+- Simulate a k-armed bandit problem with 𝜖-greedy actions
+- Understand how using 𝜖-greedy actions can improve the policy
+- Understand the properties of Markov Decision Processes
+- Describe the gains process and the agent's objective in RL
+- Explain optimal policy and value functions
+- Understand how the Bellman equation works
