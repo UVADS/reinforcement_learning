@@ -16,4 +16,3 @@ At the conclusion of this module, you should be able to:
 - Understand the strengths and limitations of Monte Carlo methods
 - Explain how temporal-difference learning works, and contrast it with MC and DP methods
 - Explain how Q-learning works
-- Implement Q-learning in code
