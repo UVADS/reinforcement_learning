@@ -1,9 +1,9 @@
 ## Reading
 
-Q-Learning  
+1. Q-Learning  
 - https://en.wikipedia.org/wiki/Q-learning
 
-Convergence of Q-Learning: A Simple Proof  
+2. Convergence of Q-Learning: A Simple Proof  
 http://users.isr.ist.utl.pt/~mtjspaan/readingGroup/ProofQlearning.pdf
 
 It will be a good exercise to work through this proof.  
