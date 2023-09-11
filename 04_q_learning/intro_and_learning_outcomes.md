@@ -13,8 +13,6 @@ In this module, we will cover the details of TD learning and Q-Learning, and imp
 
 At the conclusion of this module, you should be able to:
 
-- Understand how the temporal-difference method makes updates
-- Explain how TD updates are an improvement over MC updates
 - Explain how Q-Learning works and how it learns off policy
 - Use Q-Learning to compute value functions
 - Perform sensitivity analysis on a Q-Learning algorithm
