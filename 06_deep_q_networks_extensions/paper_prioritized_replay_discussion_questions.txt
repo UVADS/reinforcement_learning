@@ -1,0 +1,19 @@
+Prioritized Experience Replay
+Schaul et. al.
+
+Carefully read the paper (pages 1-8 through discussion). We will discuss the questions below. 
+
+---
+
+Questions for Discussion:
+
+1) What was novel about this paper?
+
+2) What new feature does this approach bring to experience replay? How does it work?
+
+3) What is the issue of greedy error prioritization (Sec 3.3)? How is it overcome?
+
+4) Why is importance sampling used in the approach?
+ 
+
+
