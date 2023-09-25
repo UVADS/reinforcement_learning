@@ -1,0 +1,23 @@
+Deep Reinforcement Learning with Double Q-learning
+Hado van Hasselt, Arthur Guez, David Silver
+
+Carefully read the paper (pages 1-7). We will discuss the questions below. 
+Note: the online network is also called the policy network in literature.
+
+---
+
+Questions for Discussion:
+
+1) What is the main problem that this paper addresses?
+
+2) How does the algorithm solve this problem? Hint: How do the neural network weights play a role?
+
+3) Look at the update equation for the target. How does it differ from DQN?
+
+
+
+
+
+ 
+
+
