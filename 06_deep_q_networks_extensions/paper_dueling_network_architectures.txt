@@ -1,0 +1,21 @@
+Dueling Network Architectures for Deep Reinforcement Learning
+Wang, Schaul, Hessel, van Hasselt, Lanctot, de Freitas
+
+Carefully read the paper. We will discuss the questions below. 
+
+---
+
+Questions for Discussion:
+
+1) What is the main problem that this paper addresses?
+
+2) How does the dueling Q-network work? In particular, explain the advantage function.
+
+3) What is the benefit of replacing the max operator with an average in equation (9)?
+
+
+
+
+ 
+
+
