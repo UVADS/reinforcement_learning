@@ -13,6 +13,10 @@ Questions for Discussion:
 
 3) What is the benefit of replacing the max operator with an average in equation (9)?
 
+4) How does the paper demonstrate the benefit of this approach?
+
+5) Why does this approach confer an advantage over traditional Q-networks? 
+
 
 
 
