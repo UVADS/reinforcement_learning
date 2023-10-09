@@ -11,7 +11,7 @@ A technique for assigning greater weight to observations that are more valuable 
 Refinement to the deep Q-network to mitigate overestimates of action values
 
 3. Revisit: Sutton and Barto Section 6.7: Maximization Bias and Double Learning  
-Speaks to the bias from the double Q-learning paper and proposes and algorithm for tabular learning
+Speaks to the bias from the double Q-learning paper and proposes an algorithm for tabular learning
 
 ---
 
