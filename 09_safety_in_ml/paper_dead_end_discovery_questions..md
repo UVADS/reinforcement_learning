@@ -1,5 +1,5 @@
 ### Using Reinforcement Learning to Identify High Risk States and Treatments in Healthcare
-Mehdi Fatemi, Taylor Killian, Marzyeh Ghassemi
+Authors: Mehdi Fatemi, Taylor Killian, Marzyeh Ghassemi
 
 Carefully read the blog post and watch the video near the bottom. We will discuss the questions below. 
 
