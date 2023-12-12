@@ -1,7 +1,7 @@
 
 ## INTRODUCTION TO THE MODULE
 
-We learn three approaches to solving Markov Decision Processes: Dynamic Programming, Monte Carlo Simulation, and Temporal-Difference Methods. Each have strengths and weaknesses, and we study the tradeoffs. Q-learning has become extremely popular, as it is model free and makes updated after each transition.
+We learn three approaches to solving Markov Decision Processes: Dynamic Programming, Monte Carlo Simulation, and Temporal-Difference Methods. Each have strengths and weaknesses, and we study the tradeoffs. Q-learning has become extremely popular, as it is model free and makes updates after each transition.
 
 ## LEARNING OUTCOMES
 
