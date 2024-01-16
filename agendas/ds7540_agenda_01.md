@@ -18,7 +18,8 @@ Quiz and Lab will be due Jan 29
 
 ### Content
 
-- Review Syllabus
-- Review Project
+- Sample applications of RL
+- Syllabus
+- Review Project Guidelines
 - Review Notebook: RL Fundamentals
 
