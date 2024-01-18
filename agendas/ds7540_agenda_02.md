@@ -4,9 +4,6 @@
 
 ### Admin Items
 
-- Communications:
-  - Teams for IM
-  - Email TA for grading questions
 
 ---
 
@@ -19,10 +16,11 @@ Quiz and Lab will be due Jan 29
 ### Content
 
 - Review Notebook: RL Fundamentals
-  - exploration vs exploitation; epsilon greedy
+  - exploration vs exploitation
+  - epsilon greedy
 
 - Cart Pole Lab
-  important functions:
-  gym.make()
-  env.reset()
+  important functions:  
+  gym.make()  
+  env.reset()  
   env.step()
