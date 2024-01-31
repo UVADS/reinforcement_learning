@@ -1,4 +1,4 @@
-## DS 7540 Machine Learning IV - Reinforcement Learning: Agenda 06
+## DS 7540 Machine Learning IV - Reinforcement Learning: Agenda 07
 
 
 
@@ -17,12 +17,7 @@ Lab 2: Value Iteration. Due Feb 19.
 
 ### Content
 
-- Review notebook: Approaches to Solving MDPs I - Dynamic Programming
-  - Concepts:
-    - Dynamic Programming
-    - Bellman equations
-    - Value Iteration
-    - Generalized Policy Iteration
-
 - Short lab: exercises_robot to compute best path on a tree 
+- Lab: Value Iteration
+
 
