@@ -1,0 +1,14 @@
+Evaluation of Reinforcement Learning Techniques for Trading on a Diverse Portfolio
+Source: https://arxiv.org/html/2309.03202v2
+
+
+1) This fails. Why?
+q_learning.q[state]
+
+2) Do you notice a difference on training vs test set performance?
+
+3) Based on the test set, does increasing the number of episodes help? Why?
+
+for ep in range(episodes):
+    print(f'episode: {ep}')
+
