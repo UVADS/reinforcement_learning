@@ -18,5 +18,5 @@ Lab 2: Value Iteration. Due Feb 19.
 ### Content
 
 - Time to research project topics
-- For ideas, see: Home > Project Inspiration
+- For ideas, see: Canvas > Home > Project Inspiration
 - AWS Deep Racer [video](https://aws.amazon.com/deepracer/enterprise/)
