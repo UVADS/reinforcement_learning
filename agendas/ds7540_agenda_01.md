@@ -10,7 +10,7 @@
 
 ---
 
-### Deliverables This Week
+### Upcoming Deliverables
 
 Quiz and Lab will be due Jan 29
 
