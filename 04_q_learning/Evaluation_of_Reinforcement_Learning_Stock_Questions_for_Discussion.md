@@ -2,7 +2,7 @@
 Source: https://arxiv.org/html/2309.03202v2
 
 
-1) From GitHub, run this [file:](https://github.com/jonah-b-ezekiel/CS221/blob/main/V2.py)  
+1) From GitHub, run this [file](https://github.com/jonah-b-ezekiel/CS221/blob/main/V2.py)  
 This should produce performance graphs.
 
 2) This fails. Why?
