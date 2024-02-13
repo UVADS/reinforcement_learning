@@ -1,4 +1,4 @@
-Evaluation of Reinforcement Learning Techniques for Trading on a Diverse Portfolio
+### Evaluation of Reinforcement Learning Techniques for Trading on a Diverse Portfolio
 Source: https://arxiv.org/html/2309.03202v2
 
 
@@ -6,7 +6,10 @@ Source: https://arxiv.org/html/2309.03202v2
 This should produce performance graphs.
 
 2) This fails. Why?
+
+```
 q_learning.q[state]
+```
 
 3) Do you notice a difference on training vs test set performance?
 
