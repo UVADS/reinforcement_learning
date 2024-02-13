@@ -2,13 +2,16 @@ Evaluation of Reinforcement Learning Techniques for Trading on a Diverse Portfol
 Source: https://arxiv.org/html/2309.03202v2
 
 
-1) This fails. Why?
+1) From GitHub, run this [file:](https://github.com/jonah-b-ezekiel/CS221/blob/main/V2.py)  
+This should produce performance graphs.
+
+2) This fails. Why?
 q_learning.q[state]
 
-2) Do you notice a difference on training vs test set performance?
+3) Do you notice a difference on training vs test set performance?
 
-3) Based on the test set, does increasing the number of episodes help? Why?
+4) Do you think that training on more episodes might improve performance on the test set?
+Increase the number of training episodes and evaluate. Explain what you find.
 
-for ep in range(episodes):
-    print(f'episode: {ep}')
+
 
