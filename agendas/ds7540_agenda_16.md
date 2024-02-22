@@ -17,5 +17,3 @@ Lab 3: Cliff Walk. Due Feb 26.
 
 - Review / work with code: deep_q_networks.ipynb
 
-- Review slides: deep_learning_background.ppt
-
