@@ -18,5 +18,6 @@ Due Mar 18:
 ### Content
 
 - DQN Extensions slides
+- Review Double DQN [paper](https://arxiv.org/pdf/1509.06461.pdf)
 - Kickoff lab: Dueling Network Lunar Lander
 
