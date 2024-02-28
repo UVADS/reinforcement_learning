@@ -1,0 +1,20 @@
+Preventing undesirable behavior of intelligent machines
+Thomas et. al.
+
+Carefully read the paper. We will discuss the questions below. 
+
+---
+
+Questions for Discussion:
+
+1) What was novel about this paper?
+
+2) How does the approach mitigate undesirable behavior?
+
+3) Discuss anything which you feel is a limitation to the approach
+
+4) Was there anything unclear or surprising?
+
+
+
+
