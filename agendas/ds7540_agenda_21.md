@@ -17,5 +17,5 @@ Due Mar 18:
 
 ### Content
 
-- Review and discuss Dueling Deep Q-Network
+- Review and discuss deck on extensions to DQN: Dueling Deep Q-Network
 - Review paper: Dueling Deep Q-Network
