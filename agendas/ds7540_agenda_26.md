@@ -3,13 +3,13 @@
 
 ### Admin Items
 
+- No class Fri, 3/29
+- Class Mon, 4/1 will be on Zoom
+  
 ---
 
 ### Upcoming Deliverables
 
-
-- No class Fri, 3/29
-- Class Mon, 4/1 will be on Zoom
 - Lab 5: Cart Pole 2 with Policy Gradients. Due Apr 1.
 - Quiz 5: Policy Gradients and Extensions. Due Apr 8.
 
