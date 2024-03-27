@@ -1,4 +1,4 @@
-## DS 7540 Machine Learning IV - Reinforcement Learning: Agenda 26
+## DS 7540 Machine Learning IV - Reinforcement Learning: Agenda 27
 
 
 ### Admin Items
