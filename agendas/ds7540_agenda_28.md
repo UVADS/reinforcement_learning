@@ -21,4 +21,11 @@
   - ! git clone https://github.com/Lucasc-99/Actor-Critic.git
 
   - Review the code for understanding
-  - Run the scripts and verify they work
+  - Run the script `/scripts/cart-pole-a2c.py`
+    - Does it work?
+    - Does it solve the task?
+
+  - Look at the function `compute_loss()` in the file `/src/a2c.py`
+  - It takes parameter `critic_loss=nn.SmoothL1Loss()`
+    - If you modify this to use `torch.nn.MSELoss()` does it seem to make a difference?     
+
