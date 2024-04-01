@@ -28,6 +28,5 @@
   - clone into Colab:
   - ! git clone https://github.com/Lucasc-99/Actor-Critic.git
 
-  - Try running the scripts. What is needed to get them to work?
-    - Hint: need to change package: 
-    ```import gymnasium as gym```
+  - Review the code for understanding
+  - Run the scripts and verify they work
