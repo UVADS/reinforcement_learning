@@ -1,0 +1,25 @@
+Proximal Policy Optimization Discussion Questions
+https://keras.io/examples/rl/ppo_cartpole/
+
+Carefully review the code. We will discuss the questions below. 
+
+---
+
+Questions for Discussion:
+
+1) What is being clipped in PPO clip?
+
+2) What role does "ratio" play in train_policy()?
+
+3) What role does KL-divergence (kl) play?
+
+4) What does squeeze() do in sample_action()?
+
+5) How is the value function updated?
+
+
+
+
+ 
+
+
