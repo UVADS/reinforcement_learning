@@ -9,6 +9,7 @@
 
 ### Upcoming Deliverables
 
+- Journaling: Modules 1-9 completed. Due Apr 15.
 
 ---
 
