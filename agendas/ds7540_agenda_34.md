@@ -16,14 +16,16 @@
 
 ### Content
 
-- Review [blog](https://openai.com/research/learning-from-human-preferences): Learning from Human Preferences
+1. Review [blog](https://openai.com/research/learning-from-human-preferences): Learning from Human Preferences
 
 Key concepts:
   - learning user preferences
   - reward predictor
   - challenges of RLHF
+    
+---
 
-- Review [blog](https://openai.com/research/instruction-following): Aligning language models to follow instructions
+2. Review [blog](https://openai.com/research/instruction-following): Aligning language models to follow instructions
 
 Key concepts:
   - Alignment research
