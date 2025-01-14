@@ -4,19 +4,19 @@
 
 ### Admin Items
 
+- Review Canvas structure
 
 ---
 
 ### Upcoming Deliverables
 
-Quiz and Lab will be due Jan 29
+Quiz and Lab will be due Jan 24
 
 ---
 
 ### Content
 
 - Review Notebook: RL Fundamentals
-  - exploration vs exploitation
   - epsilon greedy
 
 - Cart Pole Lab
