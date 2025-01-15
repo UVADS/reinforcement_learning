@@ -24,3 +24,7 @@ Quiz and Lab will be due Jan 24
   gym.make()  
   env.reset()  
   env.step()
+
+  quick review of gymnasium cart pole source code
+
+- Start on k-armed bandits
