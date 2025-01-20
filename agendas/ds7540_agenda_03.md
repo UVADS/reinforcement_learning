@@ -1,15 +1,17 @@
-## DS 7540 Machine Learning IV - Reinforcement Learning: Agenda 04
+## DS 7540 Machine Learning IV - Reinforcement Learning: Agenda 03
 
 
 
 ### Admin Items
 
+No class this week
 
 ---
 
 ### Upcoming Deliverables
 
-Quiz and Lab will be due Jan 29
+Quiz and Lab will be due Jan 24
+
 
 ---
 
@@ -24,7 +26,7 @@ Quiz and Lab will be due Jan 29
     - improving the policy by learning updated value estimates
     - Upper-Confidence-Bound Action Selection
 
-- (time permitting) Review notebook: Markov Decision Processes (MDPs)
+- Review notebook: Markov Decision Processes (MDPs)
   - Concepts:
     - Markov property
     - dynamics function p
