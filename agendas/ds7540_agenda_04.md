@@ -1,4 +1,4 @@
-## DS 7540 Machine Learning IV - Reinforcement Learning: Agenda 05
+## DS 7540 Machine Learning IV - Reinforcement Learning: Agenda 04
 
 
 
@@ -9,7 +9,7 @@
 
 ### Upcoming Deliverables
 
-Quiz and Lab will be due Jan 29
+Quiz and Lab will be due Jan 24
 
 ---
 
