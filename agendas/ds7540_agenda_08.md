@@ -16,6 +16,3 @@ Due Feb 7 at 11:59pm:
 
 - Q-Learning sepsis exercise
 - Review lab: cliff walk
-
-- Work with code from [Evaluation of Reinforcement Learning Techniques for Trading on a Diverse Portfolio](https://arxiv.org/html/2309.03202v2) to answer these [questions](https://github.com/UVADS/reinforcement_learning/blob/main/04_q_learning/Evaluation_of_Reinforcement_Learning_Stock_Questions_for_Discussion.md)
-(time permitting)
