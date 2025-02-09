@@ -12,6 +12,7 @@
 
 ### Content
 
+- Review paper from reading: Convergence of Q-learning
 
 - Review slides: deep_learning_background.ppt
 
