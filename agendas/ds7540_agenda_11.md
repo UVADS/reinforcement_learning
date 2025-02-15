@@ -5,7 +5,6 @@
 
 ### Upcoming Deliverables
 
-- One-page project proposal. Due Feb 14.
 - Quiz 3: TD learning, Q-learning. Due Feb 21.  
 - Lab 3: Cliff Walk. Due Feb 21.
 
