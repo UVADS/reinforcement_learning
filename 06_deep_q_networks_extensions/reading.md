@@ -22,3 +22,5 @@ For Second Module:
 A new neural network architecture for model-free RL
 
 5. [Deep Reinforcement Learning for Sepsis Treatment](https://arxiv.org/pdf/1711.09602.pdf)
+
+6. [Asynchronous Methods for Deep Reinforcement Learning](https://arxiv.org/abs/1602.01783)
