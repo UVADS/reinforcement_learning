@@ -1,4 +1,4 @@
-## DS 7540 Machine Learning IV - Reinforcement Learning: Agenda 23
+## DS 7540 Machine Learning IV - Reinforcement Learning: Agenda 17
 
 
 ### Admin Items
@@ -8,10 +8,8 @@
 
 ### Upcoming Deliverables
 
-Due Mar 18:  
-- Quiz 4: Deep Q-Networks and Extensions
-- Lab 4: Dueling Network Lunar Lander
-- Journaling: Modules 1-6 completed
+- Lab 5: Cart Pole 2 with Policy Gradients. Due Apr XX.
+- Quiz 5: Policy Gradients and Extensions. Due Apr XX.
 
 ---
 
