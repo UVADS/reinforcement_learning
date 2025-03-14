@@ -8,8 +8,8 @@
 
 ### Upcoming Deliverables
 
-- Lab 5: Cart Pole 2 with Policy Gradients. Due Apr XX.
-- Quiz 5: Policy Gradients and Extensions. Due Apr XX.
+- Lab 5: Cart Pole 2 with Policy Gradients. Due Apr 4.
+- Quiz 5: Policy Gradients and Extensions. Due Apr 4.
 
 ---
 
