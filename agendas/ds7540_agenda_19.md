@@ -20,5 +20,3 @@
 
 - Review Extensions of [Policy Gradient](https://github.com/UVADS/reinforcement_learning/blob/main/08_policy_gradients_extensions/policy_gradients_extensions.ppt)
   - Baselines
-  - Actor critic
-  - TRPO (time permitting)
