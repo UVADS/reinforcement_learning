@@ -15,8 +15,7 @@
 
 - Review Extensions of [Policy Gradient](https://github.com/UVADS/reinforcement_learning/blob/main/08_policy_gradients_extensions/policy_gradients_extensions.ppt)
   - Actor critic
-  - TRPO
-
+    
 
 - In class [lab](https://github.com/Lucasc-99/Actor-Critic/tree/master).
 
