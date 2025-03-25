@@ -17,7 +17,7 @@
   - Actor critic
     
 
-- In class [lab](https://github.com/Lucasc-99/Actor-Critic/tree/master).
+- In class Actor Critic [lab](https://github.com/Lucasc-99/Actor-Critic/tree/master).
 
   - clone into Colab:
   - ! git clone https://github.com/Lucasc-99/Actor-Critic.git
