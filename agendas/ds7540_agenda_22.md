@@ -23,3 +23,5 @@ Reading in advance of classes next week:
 - Finish Keras Cart Pole with [PPO](https://keras.io/examples/rl/ppo_cartpole/)
   - Review and run the code
   - Discuss and answer these [questions](https://github.com/UVADS/reinforcement_learning/blob/main/08_policy_gradients_extensions/keras_ppo_discussion_questions.txt)
+
+- [Time Permitting] Review paper: [Behavior Regularized Offline Reinforcement Learning](https://arxiv.org/pdf/1911.11361)
