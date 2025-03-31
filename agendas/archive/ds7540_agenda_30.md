@@ -4,7 +4,7 @@
 ### Admin Items
   
 Reading in advance of classes next week:
-- Mon, Apr 8. Paper: preventing undesireable behavior
+- Mon, Apr 8. Paper: preventing undesirable behavior
 - Wed, Apr 10. Paper: identify high risk states in health care
   
 ---
