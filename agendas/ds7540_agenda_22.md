@@ -24,4 +24,4 @@ Reading in advance of classes next week:
   - Review and run the code
   - Discuss and answer these [questions](https://github.com/UVADS/reinforcement_learning/blob/main/08_policy_gradients_extensions/keras_ppo_discussion_questions.txt)
 
-- [Time Permitting] Review paper: [Behavior Regularized Offline Reinforcement Learning](https://arxiv.org/pdf/1911.11361)
+- Review paper: [Behavior Regularized Offline Reinforcement Learning](https://arxiv.org/pdf/1911.11361)
