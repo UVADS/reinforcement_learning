@@ -8,8 +8,8 @@ Reading in advance of class this week:
   
 Final project presentations will take place on the final two days of class:
 
-Wed Apr 23
-Mon Apr 28
+- Wed Apr 23
+- Mon Apr 28
 
 ### Upcoming Deliverables
 
