@@ -20,6 +20,8 @@ Journaling: Modules 1-9 completed. Due April 11.
 
 ### Content
 
+- Review last quiz
+  
 - DDPG from Policy Gradient Extensions
 
 - Preventing undesireable behavior discussion [questions](https://github.com/UVADS/reinforcement_learning/blob/main/09_safety_in_ml/paper_preventing_undesirable_behavior_discussion_questions.txt) 
