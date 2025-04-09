@@ -14,19 +14,15 @@ Questions for Discussion:
 
 1) What was novel about this approach?
 
-2) What are important benefits?
+2) How does the approach mitigate undesirable behavior? Speak to value functions $Q_D$ and $Q_R$
 
-3) What is treatment security? How can it be estimated?
+3) In the infographic, find the critical point before the Dead Ends
 
-4) How does the approach mitigate undesirable behavior? Speak to value functions Q_D and Q_R
+4) Was there anything unclear or surprising in the blog?
 
-5) In the infographic, find the critical point before Dead Ends are certain
+5) Does this approach seem to work? State any supporting evidence provided by the authors.
 
-6) Was there anything unclear or surprising in the blog?
-
-7) Does this approach seem to work? State any supporting evidence provided by the authors.
-
-8) Discuss anything which you feel is a limitation to the approach
+6) Discuss anything which you feel is a limitation to the approach
 
 
 
