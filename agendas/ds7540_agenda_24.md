@@ -1,13 +1,11 @@
-## DS 7540 Machine Learning IV - Reinforcement Learning: Agenda 32
-
-
-### Admin Items
-  
+## DS 7540 Machine Learning IV - Reinforcement Learning: Agenda 24
 
   
 ---
 
 ### Upcoming Deliverables
+
+Journaling: Modules 1-9 completed. Due April 11.
 
 
 ---
