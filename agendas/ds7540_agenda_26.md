@@ -11,18 +11,20 @@
 
 ### Content
 
-1. Review [blog](https://openai.com/research/learning-from-human-preferences): Learning from Human Preferences
+1. Review RLHF slides based on the blogs and papers below:
+
+[Learning from Human Preferences](https://openai.com/research/learning-from-human-preferences)
+
+[Deep Reinforcement Learning from Human Preferences](https://arxiv.org/pdf/1706.03741)
 
 Key concepts:
   - learning user preferences
   - reward predictor
   - challenges of RLHF
 
-2. Review [paper](https://arxiv.org/pdf/1706.03741): Deep Reinforcement Learning from Human Preferences
-
 ---
 
-3. (Time Permitting) Review [blog](https://openai.com/research/instruction-following): Aligning language models to follow instructions
+[Aligning language models to follow instructions](https://openai.com/research/instruction-following)
 
 Key concepts:
   - Alignment research
