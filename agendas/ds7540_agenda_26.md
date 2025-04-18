@@ -33,3 +33,4 @@ Key concepts:
   - Supervised fine tuning
   - Reward model
  
+2. Work on `rlhf_lab.ipynb`
