@@ -2,10 +2,18 @@
   
 ---
 
+### Admin
+
+Presentations begin Wed, Apr 23 and continue Mon, Apr 28. See Canvas for details.    
+Please join both session in person
+
+
 ### Upcoming Deliverables
 
 - RLHF Quiz: Due Wednesday, Apr 25, 2025 by 11:59 PM 
 - Journals 1-11. Due Monday, Apr 25, 2025, 11:59 PM
+- Project Papers & Code will be due Fri, May 2nd at 11:59pm
+
 
 ---
 
